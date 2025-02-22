@@ -5,5 +5,5 @@ This project focuses on analyzing a health dataset to uncover key insights relat
 
 ## 📊 Tools & Technologies 
 - **Data Cleaning**: [Excel, MySQL]
- - **Data Visualization**: [Power BI, Matplotlib, Seaborn] 
+ - **Data Visualization**: [Power BI] 
 - **Database**: [MySQL, Oracle]
