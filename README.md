@@ -2,3 +2,8 @@
 
 ## Project Overview
 This project focuses on analyzing a health dataset to uncover key insights related to heart disease risk factors. It leverages Power BI for data visualization and DAX (Data Analysis Expressions) for calculations. The goal is to help identify trends, correlations, and risk indicators for heart disease.
+
+## 📊 Tools & Technologies 
+- **Data Cleaning**: [Excel, MySQL]
+ - **Data Visualization**: [Power BI, Matplotlib, Seaborn] 
+- **Database**: [MySQL, Oracle]
