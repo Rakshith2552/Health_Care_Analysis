@@ -11,7 +11,7 @@ This project focuses on analyzing a health dataset to uncover key insights relat
 ## 📂 Project Files 
 - **Dataset**: <a href="https://github.com/Rakshith2552/Health_Care_Analysis/blob/main/Health.csv">Health_data</a>
 - **SQL Queries**: <a href="https://github.com/Rakshith2552/Health_Care_Analysis/blob/main/Health_care_analysis.sql">Database</a>
-- **Dashboard**: <a href="https://github.com/Rakshith2552/Health_Care_Analysis/blob/main/Project_1.pbix">Dashboard</a?
+- **Dashboard**: <a href="https://github.com/Rakshith2552/Health_Care_Analysis/blob/main/Project_1.pbix">Dashboard</a>
 
   ## 📊 Key Performance Indicators (KPIs)
 
