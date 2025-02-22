@@ -46,3 +46,8 @@ The project began with data collection and cleaning, where patient health data w
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/b4c7fb0f-84e7-4364-be3b-d0554415a998)
 
+
+## 📌 Conclusion
+This project analyzes heart disease risk factors using Power BI, revealing key trends in demographics, lifestyle, and medical conditions. The interactive dashboard helps identify high-risk individuals, enabling data-driven healthcare decisions. Insights from cholesterol, blood pressure, and family history emphasize the need for proactive health monitoring and prevention.
+
+
